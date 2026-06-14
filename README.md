@@ -1,6 +1,3 @@
-以下是为您 CS240 项目修改的 `README.md`，保留了原 ExploreGS 的部分框架，但内容已替换为您自己的虚拟相机采样与贪心子模最大化对比实验。
-
-```markdown
 # CS240 Project: Virtual Camera Sampling for Novel-View Synthesis via Greedy Submodular Maximization
 
 <div align="center">
