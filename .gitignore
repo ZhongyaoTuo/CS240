@@ -1,8 +1,20 @@
-﻿# Large database files
-*.db
-dataset/garbage/model_test/sparse/images.bin
-dataset/garbage/model_train/sparse/images.bin
-dataset/garbage/colmap/database.db
-
-# Other large binaries
-*.bin
+*.pyc
+.vscode
+output
+build
+diff_rasterization/diff_rast.egg-info
+diff_rasterization/dist
+tensorboard_3d
+screenshots
+wandb
+guidance/dreambooth*
+guidance/inpaint_result
+guidance/temp
+src
+diffusion/ckpt/**
+diffusion/enhancer_ckpt/**
+!diffusion/ckpt/*.md
+debugging/*
+Depth-Anything-V2/checkpoints/*
+*.ply
+*.log

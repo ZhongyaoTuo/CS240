@@ -1,0 +1,15 @@
+.DS_Store
+*pyc
+.vscode
+__pycache__
+*.egg-info
+
+checkpoints
+results
+backup
+LOG
+wandb
+dbg*
+enhancer_logs/*
+main/enhancer_logs/*
+slurm-*
