@@ -1,0 +1,8 @@
+﻿# Large database files
+*.db
+dataset/garbage/model_test/sparse/images.bin
+dataset/garbage/model_train/sparse/images.bin
+dataset/garbage/colmap/database.db
+
+# Other large binaries
+*.bin
